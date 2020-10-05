@@ -1,0 +1,23 @@
+.intro{
+    padding-top:180px;
+    color: lightgray;
+    font-size: 18px;
+}
+.resume{
+    background-image: url(images/111.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.display-4{
+    font-family: fantasy;
+}
+.navbar{
+    font-size: 20px;
+}
+.btn{
+    width: 60px;
+    border-radius: 30%;
+    box-shadow: 0 5px 15px -5px #00000070;
+    transition: 0.2s linear;
+    color: lightgray;
+}
