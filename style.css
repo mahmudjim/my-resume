@@ -1,10 +1,10 @@
 .intro{
     padding-top:180px;
-    color: lightgray;
+    color: darkgray;
     font-size: 18px;
 }
 .resume{
-    background-image: url(images/111.jpg);
+    background-image: url(../images/111.jpg);
     background-size: cover;
     height: 100vh;
 }
